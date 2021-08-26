@@ -1,0 +1,165 @@
+
+
+
+【飞飞】<a>
+名称='嗯哩嗯哩'
+url='https://enlienli.com'
+搜索url='https://enlienli.com/index.php/vod/search.html?wd=..key..'
+post
+title='//img[@class="lazy lazyload"]/@alt'
+href='//a[@class="video-serial"]/@href'
+img='//img[@class="lazy lazyload"]/@data-src'
+状态='//div[@class="video-info-header"]/a/text()'
+线路名
+列表名='//div[@class="scroll-content"][1]/a/@title'
+列表url='//div[@class="scroll-content"][1]/a/@href'
+简介
+类别
+演员
+黑名单
+白名单</a><a>
+名称='哔咪站'
+url='http://www.bimiacg2.net/'
+搜索url='http://www.bimiacg2.net/vod/search/'
+post='wd=..key..'
+title='//div[@class="leo-detail-wrap leo-po-re leo-col-12"]/div[@class="leo-detail-cover leo-po-ab leo-blur"]/img/@alt'
+href='//div[@class="leo-detail-wrap leo-po-re leo-col-12"]//div[@class="leo-po-ab leo-mt-15"]/a[1]/@href'
+img='//div[@class="leo-detail-wrap leo-po-re leo-col-12"]/div[@class="leo-detail-cover leo-po-ab leo-blur"]/img/@src'
+状态='//div[@class="leo-detail-wrap leo-po-re leo-col-12"]//div[@class="leo-po-ab leo-mt-15"]/a[1]//text()'
+线路名='//ul[@class="swiper-wrapper leo-source-cho"]/li/text()'
+列表名='//div[<number>]/ul[@class="leo-play-num"]/li/a/text()'
+列表url='//div[<number>]/ul[@class="leo-play-num"]/li/a/@href'
+简介='//div/div[@id="leo-detail-info"]//text()'
+类别
+演员
+黑名单
+白名单</a><a>
+名称='宅男'
+url='https://www.znyy666.top/'
+搜索url='https://www.znyy666.top/index.php/vod/search.html?wd=..key..&submit='
+post
+title='//ul[@class="myui-vodlist__media clearfix"]//li/div[@class="thumb"]/a/@title'
+href='//ul[@class="myui-vodlist__media clearfix"]//li/div[@class="thumb"]/a/@href'
+img='//ul[@class="myui-vodlist__media clearfix"]//li/div[@class="thumb"]/a/@data-original'
+状态='//ul[@class="myui-vodlist__media clearfix"]//li/div[@class="thumb"]/a//span[@class="pic-text text-right"]//text()'
+线路名='//ul[@class="nav nav-tabs active"]/li/a/text()'
+列表名='//div[<number>]/ul[@class="myui-content__list scrollbar sort-list clearfix"]/li/a//text()'
+列表url='//div[<number>]/ul[@class="myui-content__list scrollbar sort-list clearfix"]/li/a/@href'
+简介='//span[@class="sketch content"]//text()'
+类别
+演员
+黑名单
+白名单</a><a>
+名称='影派'
+url='https://v.dtjos.com/'
+搜索url='https://v.dtjos.com/vodsearch/-------------.html?wd=..key..'
+post
+title='//img[@class="lazy lazyload"]/@alt'
+href='//a[@class="video-serial"]/@href'
+img='//img[@class="lazy lazyload"]/@data-src'
+状态='//div[@class="video-info-header"]/a/text()'
+线路名
+列表名='//div[@class="scroll-content"][1]/a/@title'
+列表url='//div[@class="scroll-content"][1]/a/@href'
+简介
+类别
+演员
+黑名单
+白名单</a><a>
+名称='网吧'
+url='http://www.wbdy.tv'
+搜索url='http://www.wbdy.tv/index.php?m=vod-search-wd-..key..'
+post
+title='//div[@class="row rowEx"]/div/div[@class="thumbnail"]/a/@title'
+href='//div[@class="row rowEx"]/div/div[@class="thumbnail"]/a/@href'
+img='//div[@class="row rowEx"]/div/div[@class="thumbnail"]/a//img/@data-src'
+状态='//div[@class="row rowEx"]/div/div[@class="thumbnail"]/a//span/text()'
+线路名
+列表名='//div[@class="panel panel-info"]/div[@class="panel-body tab-content"]/div/a/text()'
+列表url='//div[@class="panel panel-info"]/div[@class="panel-body tab-content"]/div/a/@href'
+简介='//div[@class="col-md-10 colEx"]//text()'
+类别
+演员
+黑名单
+白名单</a><a>
+名称='骚火'
+url='https://saohuo.la/'
+搜索url='https://saohuo.la/search.php?searchword=..key..'
+post
+title='//ul[@class="v_list"]/li/div[@class="v_img"]/a/@title'
+href='//ul[@class="v_list"]/li/div[@class="v_img"]/a/@href'
+img='//ul[@class="v_list"]/li/div[@class="v_img"]/a//@data-original'
+状态='//ul[@class="v_list"]/li/div[@class="v_img"]//text()'
+线路名='//section//div[@class="play_from"]//li/text()'
+列表名='//ul[@id="play_link"]/li[<number>]/a/@title'
+列表url='//ul[@id="play_link"]/li[<number>]/a/@href'
+简介='//section[@class="grid_box"]/p[@class="p_txt show_part"]/text()'
+类别
+演员='//section[@class="grid_box v_info_box"]//p/text()'
+黑名单
+白名单</a><a>
+名称='9e'
+url='https://www.9ehao.com/'
+搜索url='https://www.9ehao.com/vod/search.html?wd=..key..&submit='
+post
+title='//ul[@id="searchList"]//li/div[@class="thumb"]/a/@title'
+href='//ul[@id="searchList"]//li/div[@class="thumb"]/a/@href'
+img='//ul[@id="searchList"]//li/div[@class="thumb"]/a/@data-original'
+状态='//ul[@id="searchList"]//li/div[@class="thumb"]/a//span[@class="pic-text text-right"]//text()'
+线路名='//div[@class="myui-panel myui-panel-bg clearfix"][4]//ul[@class="nav nav-tabs active"]//a/text()'
+列表名='//div[@class="myui-panel myui-panel-bg clearfix"][4]//div[@class="tab-content myui-panel_bd"]/div[@class="tab-pane fade in clearfix"][<number>]//a/text()'
+列表url='//div[@class="myui-panel myui-panel-bg clearfix"][4]//div[@class="tab-content myui-panel_bd"]/div[@class="tab-pane fade in clearfix"][<number>]//a/@href'
+简介='//div[@class="myui-panel myui-panel-bg clearfix"][3]//p//text()'
+类别
+演员
+黑名单
+白名单</a><a>
+名称='九州'
+url='http://www.9zkan.com/'
+搜索url='http://www.9zkan.com/search.php?searchword=..key..'
+post
+title='//ul[@class="stui-vodlist__media col-pd clearfix"]//li//a[@class="v-thumb stui-vodlist__thumb lazyload"]/@title'
+href='//ul[@class="stui-vodlist__media col-pd clearfix"]//li//a[@class="v-thumb stui-vodlist__thumb lazyload"]/@href'
+img='//ul[@class="stui-vodlist__media col-pd clearfix"]//li//a[@class="v-thumb stui-vodlist__thumb lazyload"]/@data-original'
+状态='//ul[@class="stui-vodlist__media col-pd clearfix"]//li//a[@class="v-thumb stui-vodlist__thumb lazyload"]//text()'
+线路名='//div[@ id="playlist"]//h3[@class="title"]/text()'
+列表名='//div[@class="stui-pannel_bd col-pd clearfix"]//li//a/@title'
+列表url='//div[@class="stui-pannel_bd col-pd clearfix"]//li//a/@href'
+简介='//p[@class="desc detail hidden-xs"]/span[@class="detail-content"]/text()'
+类别='//div[@ id="playlist"]//h3[@class="title"]/text()'
+演员='//p[@class="data"][3]/a//text()'
+黑名单
+白名单</a><a>
+名称='陈家'
+url='https://www.cjt521.com/'
+搜索url='https://www.cjt521.com/index.php/vod/search.html'
+post='wd=..key..'
+title='//div[@class="leo-detail-wrap leo-po-re leo-col-12"]/div[@class="leo-blur"]/img/@alt'
+href='//div[@class="leo-detail-wrap leo-po-re leo-col-12"]//div[@class="leo-po-ab leo-mt-15"]/a[1]/@href'
+img='//div[@class="leo-detail-wrap leo-po-re leo-col-12"]/div[@class="leo-blur"]/img/@src'
+状态='//div[@class="leo-detail-wrap leo-po-re leo-col-12"]//div[@class="leo-po-ab leo-mt-15"]/a[1]/text()'
+线路名='//section[@class="leo-mod leo-left leo-col-12"]//ul[@class="swiper-wrapper leo-source-cho"]/li//text()'
+列表名='//section[@class="leo-mod leo-left leo-col-12"][2]//div[@id="leo-play-mores"]/div[<number>]//li/a/text()'
+列表url='//section[@class="leo-mod leo-left leo-col-12"][2]//div[@id="leo-play-mores"]/div[<number>]//li/a/@href'
+简介='//div[@ id="leo-detail-info"]//text()'
+类别='//ul[@class="leo-mt-20 leo-color-a"]/li[3]//text()'
+演员='//ul[@class="leo-mt-20 leo-color-a"]/li[2]//text()'
+黑名单
+白名单</a>
+<a>
+名称='电影先生'
+url='https://dianyi.ng/'
+搜索url='https://dianyi.ng/search--------------.html?wd=..key..'
+post
+title='//h3/a/@title'
+href='//h3/a/@href'
+img='//div[@class="module-item-pic"]//img/@data-src'
+状态='//div[@class="video-info"]/div[@class="video-info-header"]/a//text()'
+线路名='//div[@class="module-tab-item tab-item" ]//text()'
+列表名='//div[@class="module-list module-player-list tab-list sort-list "][<number>]//div[@class="scroll-content"]/a/@title'
+列表url='//div[@class="module-list module-player-list tab-list sort-list "][<number>]//div[@class="scroll-content"]/a/@href'
+简介='//div[@class="video-info-item video-info-content vod_content"]//text()'
+类别='//div[@class="video-info-aux scroll-content"]//text()'
+演员='//div[@class="video-info-items"][3]//text()'
+黑名单
+白名单</a>【飞飞】
